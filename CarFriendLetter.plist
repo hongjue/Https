@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://117.143.220.126:8082/TJMicrobialSystem.ipa</string>
+					<string>http://www.ieauto.cn/CarFriendLetter.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://117.143.220.126:8082/icon_114.png</string>
+					<string></string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,19 +27,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://117.143.220.126:8082/icon_57.png</string>
+					<string></string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.etouch3d.TJMicrobialSystem</string>
+				<string>com.cxy.CarFriendLetterD</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.3.9</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>微生物</string>
+				<string>车友信</string>
 			</dict>
 		</dict>
 	</array>
